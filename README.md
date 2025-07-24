@@ -96,10 +96,3 @@ section::before, article::after { /* elementos decorativos */ }
 - Design Responsivo
 - Google Fonts
 
-## 📄 Licença
-
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-⭐ **Dica**: Mantenha o código limpo, comentado e seguindo as melhores práticas de acessibilidade para um portfólio verdadeiramente profissional!
